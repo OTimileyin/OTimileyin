@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there, I'm Tim<br><br>💻 Backend Engineer | 🛠️ DevOps & Automation | ⛓️ Systems Programmer<br><br>I design and build high-performance, concurrent backend systems, robust automation workflows, and secure infrastructure pipelines, bridging core logic with bulletproof execution.
+# 👋 Hey there, I'm Tim
+<br><br>💻 Backend Engineer | 🛠️ DevOps & Automation | ⛓️ Systems Programmer<br><br>I design and build high-performance, concurrent backend systems, robust automation workflows, and secure infrastructure pipelines, bridging core logic with bulletproof execution.
 
 
 ## 🌐 Socials:
